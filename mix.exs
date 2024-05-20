@@ -21,7 +21,7 @@ defmodule FlagIcons.MixProject do
       package: package(),
 
       # Docs
-      name: "Phoenix Flag Icons",
+      name: "PhoenixFlagIcons",
       source_url: @source_url,
       homepage_url: @source_url,
       docs: docs()
